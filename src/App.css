@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 25px;
+    display: flex;
+}
+
+.list {
+    margin-right: 10px;
+}
+
+.item {
+    width: 300px;
+}
+
+.name {
+    border: 1px solid grey;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+}
